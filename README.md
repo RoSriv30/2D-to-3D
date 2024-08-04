@@ -5,4 +5,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Description
-This notebook goes through the process of generating 3D meshes from various angles of 2D images of an object of focus. Concepts like camera calibration, binary decoding, and object reconstruction are covered.
+This repo is a landing page for a private repo. The private repo includes a notebook that goes through the process of generating 3D meshes from various angles of 2D images of an object of focus. Concepts like camera calibration, binary decoding, and object reconstruction are covered in this project.
